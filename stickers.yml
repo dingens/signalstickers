@@ -27137,3 +27137,9 @@ fe9d97b344df94c40d4400c475334bff:
     - 'stoneman'
     - 'running'
   original: true
+ad037a87759aa9ff46d1b5e9e9f6febe:
+  key: 267db7573df9553e8c66761721f838421d736b0d1db9b27a249b9486e158a8df
+  source: '(unknown, imported from Telegram)'
+  tags:
+    - drosten
+  nsfw: true
